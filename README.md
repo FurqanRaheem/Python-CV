@@ -24,7 +24,6 @@ This Python script generates a CV in Microsoft Word. It prompts the user for per
 3. Run the script:
    ```
    python CV.py
-
 4. Follow the prompts to input your information.
 
 ## Output
